@@ -12,7 +12,7 @@ Separei a apresentação em tópicos importantes e pedi uma linguagem mais simpl
 
 ## 🚀 Resultados
 Veja o resultado! 
-*[Apresentação - Fisiculturismo](Projeto/Fisiculturismo.pptx)*
+*[Apresentação - Fisiculturismo](Projeto/README.md)*
 
 ## 💭 Reflexão
 Pude analisar ao longo do projeto que, mesmo as IAs ajudando muito, elas não conseguem imitar com perfeição a forma humana de criação!
